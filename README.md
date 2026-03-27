@@ -1,4 +1,4 @@
-# **Azure-end-to-end-etl-data-engineering-pipeline**
+# **Azure-end-to-end-etl-pipeline**
 ![1  Main]
 
 ## **1. Introduction**
