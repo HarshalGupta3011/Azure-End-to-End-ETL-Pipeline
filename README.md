@@ -75,24 +75,23 @@ The flow of the pipeline is as follows:
 
 •	Created a Resource Group named “Azure-DE-Project”.
 
-![3  Resource Gorup](https://github.com/user-attachments/assets/e70519be-6ada-46c7-856d-5ac239c18e44)
-
+![3  Resource Gorup]
 
 •	Set up a Storage Account “adeprojectdata” with two containers:
 
-![4  Storage Accountt](https://github.com/user-attachments/assets/0c4db026-1042-4f8d-8056-fb4ca8ad7768)
+![4  Storage Accountt]
 
 o	raw – for raw CSV ingestion
 
 o	transformed – for storing cleaned datasets
 
-![5  Data Lakes](https://github.com/user-attachments/assets/a6242db2-a3d8-439b-af9c-1262b187096e)
+![5  Data Lakes]
 
 ### **b. GitHub – Data Source**
 
 The Olympic dataset is hosted in CSV format on GitHub.
 
-![6  Github Rep Image](https://github.com/user-attachments/assets/4c9023f1-e245-4504-94e8-7400757df68a)
+![6  Github Rep Image]
 
 ### **c. Azure Data Factory – Data Ingestion**
 
